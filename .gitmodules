@@ -1,0 +1,3 @@
+[submodule "font-extractor"]
+	path = font-extractor
+	url = git@github.com:smilingpoplar/font-extractor.git
